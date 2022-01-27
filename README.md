@@ -1,4 +1,4 @@
-# Active Cleanup - Automation
+# Active Cleanup - Automation - POWERSHELL
 TL/DR - Unorganized AD accounts need some TLC: so I created all these files to organize them to my specifications (I'll leave out what exactly those are).
 
 TLSR (Too long, still read):
